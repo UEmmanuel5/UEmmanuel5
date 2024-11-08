@@ -39,6 +39,7 @@ I’m a Master’s student at the **University of Science and Technology of Chin
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ugwuemmanuel)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:ueu.grad@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=flat)](https://uemmanuel5.github.io/portfolio)
+[![Youtube](https://img.shields.io/badge/-Youtube-0A66C2?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@brainwave_alpha)
 
 ---
 
