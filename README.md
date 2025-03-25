@@ -12,11 +12,8 @@ I’m currently pursuing my Master’s degree at the **University of Science and
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
 </p>
 
@@ -31,11 +28,25 @@ I’m currently pursuing my Master’s degree at the **University of Science and
 ---
 
 ## 🌱 Currently Learning
-- **Advanced Backend Development** (FastAPI, Django Rest Framework)
 - **Deep Learning & NLP** (Transformers, CNNs, LLMs)
 - **Cloud Deployment & DevOps** (AWS, Docker, Kubernetes)
 
 ---
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uemmanuel5&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=uemmanuel5&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/uemmanuel5/count.svg)
+
+---
+
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ugwuemmanuel)
