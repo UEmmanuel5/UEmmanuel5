@@ -43,6 +43,4 @@ I’m currently pursuing my Master’s degree at the **University of Science and
 
 Thanks for visiting! 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
 
----
-
-![Visitor Count](https://profile-counter.glitch.me/uemmanuel5/count.svg)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
