@@ -1,6 +1,6 @@
 # Hi there, Welcome! 👋
 
-**Master’s Student | Web Developer | IoT & AI Enthusiast**
+**Master’s Student | Cloud Computing | Web Developer | IoT & AI Enthusiast**
 
 I’m currently pursuing my Master’s degree at the **University of Science and Technology of China**, with a deep passion for **web development**, **IoT**, **automation**, and **computer vision**. I love building smart systems and dynamic applications that solve real-world problems. Right now, I’m expanding my skills into backend development and exploring advanced **AI models** and **machine learning**.
 
