@@ -2,7 +2,7 @@
 
 **Master’s Student | Web Developer | Cloud Computing | IoT & AI Enthusiast**
 
-I’m currently pursuing my Master’s degree at the **University of Science and Technology of China**, with a deep passion for **web development**, **IoT**, **automation**, and **computer vision**. I love building smart systems and dynamic applications that solve real-world problems. Right now, I’m expanding my skills into backend development and exploring advanced **AI models** and **machine learning**. ![Visitor Count](https://profile-counter.glitch.me/uemmanuel5/count.svg)
+I’m currently pursuing my Master’s degree at the **University of Science and Technology of China**, with a deep passion for **web development**, **IoT**, **automation**, and **computer vision**. I love building smart systems and dynamic applications that solve real-world problems. Right now, I’m expanding my skills into backend development and exploring advanced **AI models** and **machine learning**.
 
 ---
 
@@ -33,18 +33,6 @@ I’m currently pursuing my Master’s degree at the **University of Science and
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=uemmanuel5&show_icons=true&theme=radical)      [![GitHub Streak](https://streak-stats.demolab.com/?user=uemmanuel5&theme=radical)](https://git.io/streak-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ugwuemmanuel)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:ueu.grad@gmail.com)
@@ -54,3 +42,7 @@ I’m currently pursuing my Master’s degree at the **University of Science and
 ---
 
 Thanks for visiting! 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/uemmanuel5/count.svg)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
