@@ -2,7 +2,7 @@
 
 **Master’s Student | Web Developer | Cloud Computing | IoT & AI Enthusiast**
 
-I’m currently pursuing my Master’s degree at the **University of Science and Technology of China**, with a deep passion for **web development**, **IoT**, **automation**, and **computer vision**. I love building smart systems and dynamic applications that solve real-world problems. Right now, I’m expanding my skills into backend development and exploring advanced **AI models** and **machine learning**.
+I’m currently pursuing my Master’s degree in **Computer Science and Technology** at the **University of Science and Technology of China (USTC)**. I have a strong passion for **computer vision**, **cloud computing**, **DevOps**, **cybersecurity**, and **IoT**. At the moment, I am undergoing extensive training in **AWS**, **Azure**, and **GCP**, and am focused on building expertise in cloud technologies and their applications to real-world problems.
 
 ---
 
