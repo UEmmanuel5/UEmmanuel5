@@ -20,7 +20,7 @@ I’m currently pursuing my Master’s degree in **Computer Science and Technolo
 ---
 
 ## 🚀 Featured Projects
-- **[Portfolio Website](https://uemmanuel5.github.io/portfolio)** – A modern, responsive portfolio built with HTML, CSS, and JavaScript.
+- **ProfSAM** – Promptable fire segmentation: Unleashing SAM2’s potential for real-time mobile deployment with strategic bounding box guidance
 - **IoT Smart Home System** – Real-time temperature and fire monitoring using Arduino, sensors, and fuzzy logic control.
 - **Face Recognition System** – Attendance tracking powered by Python and OpenCV.
 - **Piezoelectric Shoe Insole** – Energy harvesting system from footsteps for powering small electronics.
