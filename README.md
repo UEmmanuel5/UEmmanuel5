@@ -44,4 +44,9 @@ I’m currently pursuing my Master’s degree in **Computer Science and Technolo
 Thanks for 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
 [![Repo visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OWNER/REPO&title=Repo%20visitors)](https://hits.seeyoufarm.com)
 
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuemmanuel5%2Fuemmanuel5&title=Profile%20Views&edge_flat=false" alt="Profile views">
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
