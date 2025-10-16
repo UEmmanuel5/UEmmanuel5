@@ -41,7 +41,7 @@ I’m currently pursuing my Master’s degree in **Computer Science and Technolo
 
 ---
 
-Thanks for ![visiting](https://komarev.com/ghpvc/?username=uemmanuel5&label=Profile%20views&color=0e75b6&style=flat)
-! 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
+Thanks for 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
+[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/uemmanuel5&title=Profile%20views)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
