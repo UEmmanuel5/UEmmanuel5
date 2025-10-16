@@ -42,7 +42,7 @@ I’m currently pursuing my Master’s degree in **Computer Science and Technolo
 ---
 
 Thanks for 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=uemmanuel5.uemmanuel5&left_text=Profile%20Views)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=uemmanuel5.uemmanuel5&left_color=0a0f1f&right_color=7c3aed&left_text=Profile%20Views)
+
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=uemmanuel5&repo=uemmanuel5&logo=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
