@@ -45,3 +45,9 @@ I’m currently pursuing my Master’s degree in **Computer Science and Technolo
 Thanks for 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=uemmanuel5&theme=radical)
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=uemmanuel5&theme=onedark)
+
