@@ -1,6 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=uemmanuel5&label=Profile%20views&color=0e75b6&style=flat)
-
-
 # Hi there, Welcome! 👋
 
 **Master’s Student | Web Developer | Cloud Computing | IoT & AI Enthusiast**
@@ -44,6 +41,7 @@ I’m currently pursuing my Master’s degree in **Computer Science and Technolo
 
 ---
 
-Thanks for visiting! 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
+Thanks for ![visiting](https://komarev.com/ghpvc/?username=uemmanuel5&label=Profile%20views&color=0e75b6&style=flat)
+! 🌍 Feel free to check out my repositories, and let’s collaborate on exciting projects!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
