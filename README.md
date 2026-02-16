@@ -37,12 +37,12 @@ I’m currently pursuing my Master’s degree in **Computer Science and Technolo
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ugwuemmanuel)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:ueu.grad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=flat)](https://uemmanuel5.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=flat)](https://ueulj.site/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@brainwave_alpha)
 
 ---
 
 Thanks for visiting🌍 | Feel free to check out my repositories, and let’s collaborate on exciting projects!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uemmanuel5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
